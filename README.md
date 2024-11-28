@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, my name is Stian. 
+I work at Sopra Steria as a Cloud Engineer, focusing on Microsoft technologies such as:
+* Azure Cloude
+* Bicep
+
+
 
 <!--
 **Stiankda1996/Stiankda1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
